@@ -1,7 +1,3 @@
-Sure! Here is a concise and professional text for your GitHub profile:
-
----
-
 ### Hi there! 👋
 
 I'm a passionate Java developer specializing in Spring Boot, with experience in building robust backend systems. Additionally, I enjoy crafting dynamic and responsive user interfaces with Svelte.
